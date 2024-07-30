@@ -1,1 +1,1 @@
-# Portfolio-Website
+Welcome to my portfolio website! This repository contains the source code for my personal portfolio, showcasing my projects, skills, and experience. Built with HTML, CSS , JAVASCRIPT the website features a responsive design, interactive project showcases, a skills section, and a contact form. To explore the site, clone the repository, install the dependencies, and start the development server. For any questions or contributions, please contact me at anushkaranjan35@gmail.com or connect with me on LinkedIn.
